@@ -1,5 +1,5 @@
 
-https : // codeforces.com/contest/1838/problem/A
+//https : // codeforces.com/contest/1838/problem/A
 #include <iostream>
 #include <vector>
 #include <algorithm>
